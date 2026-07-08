@@ -54,3 +54,6 @@ volumes:
 
 networks:
   wordpress_network:
+
+
+  # Proyecto WordPress con Docker Compose
